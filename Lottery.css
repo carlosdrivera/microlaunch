@@ -1,0 +1,24 @@
+.topTitle {
+	background-color: tan ;
+	color: teal;
+	padding-top: 10px;
+	padding-bottom:10px;
+	font-family: script;
+	text-align: center;
+}
+
+
+}
+
+#example {
+	border: 1px;
+	color:#0000FF;
+	margin: 5px 0pt;
+	padding: 5px;
+	height: 50px;
+}
+
+.example-default-value {
+	width: 400px;
+	height: 100px;
+}
